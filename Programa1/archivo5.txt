@@ -1,0 +1,8 @@
+int main(){
+  int i = 5;
+  int e = 6;
+  int d = 7;
+  cout << Hellow World << endl;
+  cout << i << " " << e << " " << d >> endl;
+  return 0;
+}
